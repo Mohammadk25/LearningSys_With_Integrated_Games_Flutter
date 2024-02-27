@@ -1,16 +1,4 @@
-# learningsys
+# Learning Management System with Integrated Games from Phet,etc
+Learning Management System (LMS) that incorporates game integrations from various educational websites and simulations. The app will span educational content for grades 1-12, with unique tabs for each grade level.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Please run the Flutter Clean and then Flutter Get commands
